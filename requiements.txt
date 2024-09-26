@@ -1,0 +1,5 @@
+# All python packages
+pandas
+scikit-learn
+numpy
+scipy
